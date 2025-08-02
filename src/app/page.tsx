@@ -8,7 +8,7 @@ export default function Home() {
     <div className="py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <h1 className="text-3xl font-bold text-gray-900 sm:text-4xl">Upcoming Events</h1>
+          <h1 className="text-3xl font-bold text-white-900 sm:text-4xl">Upcoming Events</h1>
           <p className="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
             Discover and join our exciting events and workshops
           </p>
